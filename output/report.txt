@@ -1,0 +1,56 @@
+🔌 SMART ENERGY ANALYZER REPORT
+================================
+
+Overall Average Usage: 15499.51 MW
+ Peak Usage Observed: 25695.00 MW
+
+ Average Usage by Hour:
+  Hour 00: 14651.19 MW
+  Hour 01: 13891.48 MW
+  Hour 02: 13432.06 MW
+  Hour 03: 13184.05 MW
+  Hour 04: 13095.19 MW
+  Hour 05: 13240.54 MW
+  Hour 06: 13802.40 MW
+  Hour 07: 14781.67 MW
+  Hour 08: 15478.83 MW
+  Hour 09: 15822.65 MW
+  Hour 10: 16084.28 MW
+  Hour 11: 16306.32 MW
+  Hour 12: 16398.18 MW
+  Hour 13: 16477.79 MW
+  Hour 14: 16534.66 MW
+  Hour 15: 16492.81 MW
+  Hour 16: 16444.51 MW
+  Hour 17: 16542.04 MW
+  Hour 18: 16762.94 MW
+  Hour 19: 16868.73 MW
+  Hour 20: 16821.34 MW
+  Hour 21: 16763.81 MW
+  Hour 22: 16468.97 MW
+  Hour 23: 15632.59 MW
+
+ Average Usage by Day of Week:
+  FRIDAY: 15773.12 MW
+  MONDAY: 15810.97 MW
+  SATURDAY: 14610.98 MW
+  SUNDAY: 14200.75 MW
+  THURSDAY: 16028.14 MW
+  TUESDAY: 16057.62 MW
+  WEDNESDAY: 16013.59 MW
+
+ Average Usage by Month:
+  APRIL: 13823.86 MW
+  AUGUST: 16424.88 MW
+  DECEMBER: 16445.61 MW
+  FEBRUARY: 17022.82 MW
+  JANUARY: 17431.27 MW
+  JULY: 16349.85 MW
+  JUNE: 15630.02 MW
+  MARCH: 15376.84 MW
+  MAY: 14006.39 MW
+  NOVEMBER: 14930.41 MW
+  OCTOBER: 13938.93 MW
+  SEPTEMBER: 14657.28 MW
+
+ Report generated successfully.
