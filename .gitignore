@@ -1,0 +1,7 @@
+/bin/
+/output/
+*.class
+*.jar
+*.log
+*.csv
+.DS_Store
